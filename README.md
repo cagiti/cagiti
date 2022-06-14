@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **cagiti/cagiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm Cai
+
+[![Cai's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagiti&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/cagiti/github-readme-stats)
+
+----------------
+[![Cai's GitHub followers](https://img.shields.io/github/followers/cagiti?label=Follow&maxAge=3600&style=flat-square&logo=Github&labelColor=000000&color=000000)](https://github.com/cagiti?tab=followers)
+![](https://komarev.com/ghpvc/?username=cagiti&style=flat-square&color=595959)
